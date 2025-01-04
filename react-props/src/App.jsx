@@ -32,7 +32,8 @@ const Data = [{
 
 ]
 
-let ans = Data.map((key) => <Studata Myname={key.name} />)
+let ans = Data.map((key) => <Studata Myname={key.name} 
+city={key.rollnumb}  clgname={key.clgname} myadd={key.clgadress}/>)
 
 
 
