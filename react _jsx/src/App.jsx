@@ -14,7 +14,7 @@
 const App =()=>{
   return(
     <>
-    {/* <h1>i am {name} mehra  from {city} we learn react js  my {age} year old my {sub} </h1>
+    <h1>i am {name} mehra  from {city} we learn react js  my {age} year old my {sub} </h1>
 
 
     <h1>Application form</h1>
@@ -30,9 +30,9 @@ const App =()=>{
     <br/>
 
     Enter gmail : <input type="text"/>
-    <br/>
+    <br/><br/>
 
-    <input type="button" value="save"/> */}
+    <input type="button" value="save"/>
 
 
 
