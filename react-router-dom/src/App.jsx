@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, Outlet } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./Layout";
 import Home from "./Home";
 import About from "./About";
@@ -17,7 +17,7 @@ const App = () => {
             <Route path="contact" element={<Contact />} />
             <Route path="Service" element={<Service/>}/>
           </Route>
-          <Outlet/>
+          
         </Routes>
       </BrowserRouter>
     </>

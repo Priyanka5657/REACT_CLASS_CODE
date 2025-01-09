@@ -2,9 +2,9 @@ import { Link,Outlet } from "react-router-dom";
 const Layout = () => {
   return (
     <>
-      <link to ="home">Home</link>
-      <link to ="contact">contact</link>
-      <Link to ="About">About</Link>
+      <Link to ="home">Home</Link> &nbsp;&nbsp;&nbsp;&nbsp;
+      <Link to ="contact">contact</Link>&nbsp;&nbsp;&nbsp;&nbsp;
+      <Link to ="About">About</Link>&nbsp;&nbsp;&nbsp;&nbsp;
 
       <Outlet/>
     </>
