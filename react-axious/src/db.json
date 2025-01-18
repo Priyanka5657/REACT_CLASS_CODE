@@ -1,0 +1,46 @@
+{"students":[
+    {
+        "id":1,
+        "rollno":"101",
+        "name":"priyanka",
+        "city":"new york",
+        "fees": 1500
+    },
+
+    {
+        "id":1,
+        "rollno":"101",
+        "name":"priyanka",
+        "city":"new york",
+        "fees": 1500
+    },
+    {
+        "id":1,
+        "rollno":"101",
+        "name":"priyanka",
+        "city":"new york",
+        "fees": 1500
+    },
+    {
+        "id":1,
+        "rollno":"101",
+        "name":"priyanka",
+        "city":"new york",
+        "fees": 1500
+    },
+    {
+        "id":1,
+        "rollno":"101",
+        "name":"priyanka",
+        "city":"new york",
+        "fees": 1500
+    },
+    {
+        "id":1,
+        "rollno":"101",
+        "name":"priyanka",
+        "city":"new york",
+        "fees": 1500
+    }
+]
+}
